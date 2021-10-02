@@ -1,0 +1,4 @@
+
+[ Senin, 20 - 09 - 2021 | 17:22:35 ] 'LINE' object has no attribute 'auth'
+[ Senin, 20 - 09 - 2021 | 17:33:32 ] 'LINE' object has no attribute 'auth'
+[ Senin, 20 - 09 - 2021 | 17:50:26 ] 'LINE' object has no attribute 'auth'
